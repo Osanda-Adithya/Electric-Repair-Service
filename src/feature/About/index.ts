@@ -1,0 +1,5 @@
+export { default as CallAction } from './Sections/CallAction'
+export { default as CompanyStory } from './Sections/CompanyStory'
+export { default as Expertise } from './Sections/Expertise'
+export { default as MissionVission } from './Sections/MissionVission'
+export { default as WhyChooseUs } from './Sections/WhyChooseUs'

@@ -1,0 +1,7 @@
+export { default as Intro } from './Intro'
+export { default as InstantSupport } from './InstantSupport'
+export { default as KeyServices } from './KeyServices'
+export { default as Pricing } from './Pricing'
+export { default as Approches } from './Approches'
+export { default as TeamValues } from './TeamValues'
+export { default as Footer } from './Footer'
