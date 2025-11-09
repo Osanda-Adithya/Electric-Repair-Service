@@ -59,7 +59,7 @@ const Gallery: FC = () => {
                         key={index}
                         whileHover={{ scale: 1.03 }}
                         transition={{ duration: 0.3 }}
-                        className={`overflow-hidden sm:rounded-xl shadow-md md:${spanPattern[index % spanPattern.length]}`}
+                        className={`overflow-hidden sm:rounded-xl shadow-md ${spanPattern[index % spanPattern.length]}`}
                     >
                         <img
                             src={`https://driver-proxy-tau.vercel.app/api/drive-proxy?fileId=${img.id}`}
