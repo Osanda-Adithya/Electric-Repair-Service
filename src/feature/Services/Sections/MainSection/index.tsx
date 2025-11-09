@@ -98,13 +98,6 @@ const MainSection: FC = () => {
                         Other Electronics Repair
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                        <div className="flex flex-col justify-center service-card bg-white rounded-2xl p-6 border border-gray-100 hover:shadow-lg">
-                            <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-4 mx-auto">
-                                <svg className="w-6 h-6 text-blue-600 svg-inline--fa fa-tv" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tv" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M64 64V352H576V64H64zM0 64C0 28.7 28.7 0 64 0H576c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zM128 448H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H128c-17.7 0-32-14.3-32-32s14.3-32 32-32z"></path></svg>
-                            </div>
-                            <h4 className="text-lg font-bold text-blue-600 mb-2 text-center">TV Repair</h4>
-                            <p className="text-gray-600 text-center">LED, LCD, Smart TV repair and maintenance services.</p>
-                        </div>
 
                         <div className="flex flex-col justify-center service-card bg-white rounded-2xl p-6 border border-gray-100 hover:shadow-lg">
                             <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mb-4 mx-auto">

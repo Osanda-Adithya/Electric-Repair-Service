@@ -30,7 +30,7 @@ const Intro: FC = () => {
                             <span className="text-blue-200">Repair Services</span>
                         </h1>
                         <p className="text-xl mb-8 text-blue-100">
-                            Professional repair services for AC, refrigerators, TVs, washing machines, and more.
+                            Professional repair services for AC, refrigerators, washing machines, and more.
                             Fast, reliable, and affordable solutions at your doorstep.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 mb-8">

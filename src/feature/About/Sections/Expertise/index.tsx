@@ -39,20 +39,6 @@ const Expertise: FC = () => {
                             <li>• Commercial Fridges</li>
                         </ul>
                     </div>
-                    <div id="tv-expertise" className="bg-[#f8f9fa] p-8 rounded-2xl hover:shadow-lg transition-shadow">
-                        <div className="bg-purple-500 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
-                            <svg className="text-white svg-inline--fa fa-tv" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tv" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M64 64V352H576V64H64zM0 64C0 28.7 28.7 0 64 0H576c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zM128 448H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H128c-17.7 0-32-14.3-32-32s14.3-32 32-32z"></path></svg>
-                        </div>
-                        <h3 className="text-xl font-bold text-gray-800 mb-4">Television</h3>
-                        <p className="text-gray-600 mb-4">
-                            Comprehensive TV repair services including screen replacement, audio issues, connectivity problems, and smart TV software troubleshooting.
-                        </p>
-                        <ul className="text-sm text-gray-500 space-y-1">
-                            <li>• LED &amp; LCD TVs</li>
-                            <li>• Smart TV Issues</li>
-                            <li>• Display Problems</li>
-                        </ul>
-                    </div>
                     <div id="washing-expertise" className="bg-[#f8f9fa] p-8 rounded-2xl hover:shadow-lg transition-shadow">
                         <div className="bg-teal-500 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
                             <svg className="text-white svg-inline--fa fa-shirt" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="shirt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M211.8 0c7.8 0 14.3 5.7 16.7 13.2C240.8 51.9 277.1 80 320 80s79.2-28.1 91.5-66.8C413.9 5.7 420.4 0 428.2 0h12.6c22.5 0 44.2 7.9 61.5 22.3L628.5 127.4c6.6 5.5 10.7 13.5 11.4 22.1s-2.1 17.1-7.8 23.6l-56 64c-11.4 13.1-31.2 14.6-44.6 3.5L480 197.7V448c0 35.3-28.7 64-64 64H224c-35.3 0-64-28.7-64-64V197.7l-51.5 42.9c-13.3 11.1-33.1 9.6-44.6-3.5l-56-64c-5.7-6.5-8.5-15-7.8-23.6s4.8-16.6 11.4-22.1L137.7 22.3C155 7.9 176.7 0 199.2 0h12.6z"></path></svg>
