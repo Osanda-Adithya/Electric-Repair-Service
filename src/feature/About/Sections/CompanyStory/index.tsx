@@ -8,7 +8,7 @@ const CompanyStory: FC = () => {
                     <div>
                         <h2 className="text-4xl font-bold text-gray-800 mb-6">Our Story</h2>
                         <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                            Founded with a passion for bringing broken electronics back to life, RepairPro has been serving communities with dedication and expertise for over a decade. What started as a small repair shop has grown into a comprehensive electronics repair platform.
+                            Founded with a passion for bringing broken electronics back to life, We have been serving communities with dedication and expertise for over a decade. What started as a small repair shop has grown into a comprehensive electronics repair platform.
                         </p>
                         <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                             We understand how frustrating it can be when your essential appliances break down. That's why we've built our entire business around providing fast, reliable, and affordable repair solutions that get your life back on track.

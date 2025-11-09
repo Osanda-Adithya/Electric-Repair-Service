@@ -18,7 +18,7 @@ const Footer: FC = () => {
                             <div className="bg-blue-600 p-2 rounded-lg">
                                 <Zap className="w-5 h-5 text-white" />
                             </div>
-                            <span className="text-xl font-bold text-white">TechFix Pro</span>
+                            <span className="text-xl font-bold text-white">Priyanga Electric</span>
                         </div>
                         <p className="text-gray-400 leading-relaxed">
                             Professional electronics repair and installation services you can trust. Quality work, honest pricing, exceptional service.
@@ -67,7 +67,7 @@ const Footer: FC = () => {
                 </div>
 
                 <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-                    <p>&copy; {new Date().getFullYear()} TechFix Pro. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Priyanga Electric. All rights reserved.</p>
                 </div>
             </div>
         </footer>
